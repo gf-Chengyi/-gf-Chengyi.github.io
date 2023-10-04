@@ -5,6 +5,14 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2023/10/04/my-new-blog/",
+            "url": "http://example.com/2023/10/04/my-new-blog/",
+            "title": "my_new_blog",
+            "date_published": "2023-10-04T02:35:11.000Z",
+            "content_html": "<p>今天👴创建了 github+hexo，过程太艰难，版本问题真麻烦，以后技术文章都在本博客发布<br>\n谢谢各位👴来指导俺，爬…</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://example.com/2023/10/04/hello-world/",
             "url": "http://example.com/2023/10/04/hello-world/",
             "title": "Hello World",
