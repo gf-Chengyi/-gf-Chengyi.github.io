@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>A young man should have the ambition of riding a fine horse and stepping on the plain</title>
+    <title>A young man should have the ambition of riding a fine horse and stepping on the plain • Posts by &#34;reverse&#34; category</title>
     <link href="http://example.com" />
     <updated>2023-10-04T06:11:42.000Z</updated>
     <category term="Reverse" />
@@ -66,23 +66,5 @@
 </content>
         <category term="Reverse" />
         <updated>2023-10-04T06:11:42.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2023/10/04/my-new-blog/</id>
-        <title>my_new_blog</title>
-        <link rel="alternate" href="http://example.com/2023/10/04/my-new-blog/"/>
-        <content type="html">&lt;p&gt;今天👴创建了 github+hexo，过程太艰难，版本问题真麻烦，以后技术文章都在本博客发布&lt;br&gt;
-谢谢各位👴来指导俺，为什么这么菜，爬…&lt;/p&gt;
-&lt;p&gt;安装插件：&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0MjU3Ny9hcnRpY2xlL2RldGFpbHMvMTI2NzEzMjUy&#34;&gt;https://blog.csdn.net/weixin_43642577/article/details/126713252&lt;/span&gt;&lt;br&gt;
-npm install hexo-deployer-git --save   # 安装插件&lt;br&gt;
- npm i hexo-renderer-multi-markdown-it --save&lt;br&gt;
-npm i hexo-autoprefixer --save&lt;br&gt;
-npm i  hexo-algolia --save&lt;br&gt;
-npm i hexo-algoliasearch --save&lt;br&gt;
-npm i hexo-symbols-count-time --save&lt;br&gt;
-npm i hexo-feed --save&lt;/p&gt;
-</content>
-        <updated>2023-10-04T02:35:11.000Z</updated>
     </entry>
 </feed>

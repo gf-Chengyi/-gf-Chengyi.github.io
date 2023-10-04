@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "A young man should have the ambition of riding a fine horse and stepping on the plain",
+    "title": "A young man should have the ambition of riding a fine horse and stepping on the plain • All posts by \"reverse\" tag",
     "description": "",
     "home_page_url": "http://example.com",
     "items": [
@@ -13,14 +13,6 @@
             "tags": [
                 "Reverse"
             ]
-        },
-        {
-            "id": "http://example.com/2023/10/04/my-new-blog/",
-            "url": "http://example.com/2023/10/04/my-new-blog/",
-            "title": "my_new_blog",
-            "date_published": "2023-10-04T02:35:11.000Z",
-            "content_html": "<p>今天👴创建了 github+hexo，过程太艰难，版本问题真麻烦，以后技术文章都在本博客发布<br>\n谢谢各位👴来指导俺，为什么这么菜，爬…</p>\n<p>安装插件：<br>\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0MjU3Ny9hcnRpY2xlL2RldGFpbHMvMTI2NzEzMjUy\">https://blog.csdn.net/weixin_43642577/article/details/126713252</span><br>\nnpm install hexo-deployer-git --save   # 安装插件<br>\n npm i hexo-renderer-multi-markdown-it --save<br>\nnpm i hexo-autoprefixer --save<br>\nnpm i  hexo-algolia --save<br>\nnpm i hexo-algoliasearch --save<br>\nnpm i hexo-symbols-count-time --save<br>\nnpm i hexo-feed --save</p>\n",
-            "tags": []
         }
     ]
 }
